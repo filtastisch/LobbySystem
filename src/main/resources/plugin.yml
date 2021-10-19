@@ -1,0 +1,12 @@
+name: LobbySystem
+version: '${project.version}'
+main: de.filtastisch.lobbysystem.LobbySystem
+api-version: 1.17
+prefix: LobbySystem
+commands:
+  spawn:
+  setspawn:
+  warp:
+  navigator:
+    aliases: [nav]
+  build:
